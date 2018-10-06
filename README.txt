@@ -1,0 +1,1 @@
+just a simple QuadraticExpression class!
